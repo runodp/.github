@@ -7,5 +7,7 @@ A configuration-driven framework built on top of [Dagster](https://github.com/da
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/jonathanbhaskar/)
+
 [Blog](https://blog.jonathanb.me)
+
 [Email](mailto:jonathan.bhaskar@gmail.com)
